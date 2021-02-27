@@ -1,3 +1,5 @@
+
+# DEPLOY IN https://nurrizkydicoding.netlify.app/
 # INFO 
 
 1) Nama: Nurrizky Imani
@@ -7,6 +9,7 @@
 
 # Context :
 1) Three files: home.html, home.js, style.css
+2) Deploy using Netlify
 
 # Quick Check of Saran
 
