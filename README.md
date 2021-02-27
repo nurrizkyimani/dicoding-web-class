@@ -4,6 +4,10 @@
 2) Univ: Universitas Gadjah Mada
 3) Bangkit Number : c0080853
 
+
+# Context :
+1) Three files: home.html, home.js, style.css
+
 # Quick Check of Saran
 
 Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
