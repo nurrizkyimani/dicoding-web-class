@@ -10,6 +10,7 @@
 # Context :
 1) Three files: home.html, home.js, style.css
 2) Deploy using Netlify
+3) Github : https://github.com/nurrizkyimani/dicoding-web-class
 
 # Quick Check of Saran
 
